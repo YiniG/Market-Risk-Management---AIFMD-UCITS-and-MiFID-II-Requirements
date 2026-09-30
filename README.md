@@ -6,13 +6,6 @@ A bilingual (English/Chinese) practitioner handbook covering VaR, Expected Short
 
 ---
 
-## Download
-
-| Edition | File |
-|---|---|
-| English with Chinese translation (65 pp.) | `Market_Risk_Handbook_EN-CN.pdf` |
-| Chinese with English translation (66 pp.) | `市场风险管理_中英对照手册.pdf` |
-
 ## Contents
 
 | Part | Chapters | Topics |
@@ -30,8 +23,7 @@ A bilingual (English/Chinese) practitioner handbook covering VaR, Expected Short
 ## Repository layout
 
 ```
-├── Market_Risk_Handbook_EN-CN.pdf     # English edition (with Chinese translation)
-├── 市场风险管理_中英对照手册.pdf         # Chinese edition (with English translation)
+├── Market_Risk_Handbook.pdf          # English edition
 ├── src/                               # handbook source (HTML + KaTeX)
 ├── build.js / build_en.js             # render the PDFs with headless Chromium
 ├── var_toolkit.py                     # reusable functions: VaR, backtests, stress, drawdown
