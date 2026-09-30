@@ -1,6 +1,6 @@
 **Short-term monitoring · Medium-term testing · Long-term testing**
 
-A bilingual (English/Chinese) practitioner handbook covering VaR, Expected Shortfall, backtesting, stress testing, drawdown and scenario analysis. It maps each topic to **AIFMD, UCITS and MiFID II** requirements, and every calculation can be reproduced in Python.
+A practitioner handbook covering VaR, Expected Shortfall, backtesting, stress testing, drawdown and scenario analysis. It maps each topic to **AIFMD, UCITS and MiFID II** requirements, and every calculation can be reproduced in Python.
 
 > Regulatory content is current as of **30 September 2026**. These are study notes, not investment, legal or compliance advice.
 
